@@ -4,7 +4,7 @@ A modern, responsive Hospital Information Management System MVP for hospital cli
 
 ## Live demo
 
-https://sanjeevani-careflow-hims.yogita-06.chatgpt.site
+https://hims-demo-sigma.vercel.app
 
 Demo credentials:
 
