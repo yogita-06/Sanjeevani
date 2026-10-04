@@ -46,3 +46,5 @@ next-env.d.ts
 /work/
 /.package-stage/
 /hims-site.tar.gz
+
+.vercel
